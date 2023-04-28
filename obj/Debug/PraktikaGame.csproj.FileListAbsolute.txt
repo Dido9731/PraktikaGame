@@ -1,0 +1,11 @@
+D:\Dian\School\Programirane\PraktikaGame\PraktikaGame\obj\Debug\PraktikaGame.csprojAssemblyReference.cache
+D:\Dian\School\Programirane\PraktikaGame\PraktikaGame\obj\Debug\PraktikaGame.StartingMenu.resources
+D:\Dian\School\Programirane\PraktikaGame\PraktikaGame\obj\Debug\PraktikaGame.SecondaryMenu.resources
+D:\Dian\School\Programirane\PraktikaGame\PraktikaGame\obj\Debug\PraktikaGame.Properties.Resources.resources
+D:\Dian\School\Programirane\PraktikaGame\PraktikaGame\obj\Debug\PraktikaGame.csproj.GenerateResource.cache
+D:\Dian\School\Programirane\PraktikaGame\PraktikaGame\obj\Debug\PraktikaGame.csproj.CoreCompileInputs.cache
+D:\Dian\School\Programirane\PraktikaGame\PraktikaGame\bin\Debug\PraktikaGame.exe.config
+D:\Dian\School\Programirane\PraktikaGame\PraktikaGame\bin\Debug\PraktikaGame.exe
+D:\Dian\School\Programirane\PraktikaGame\PraktikaGame\bin\Debug\PraktikaGame.pdb
+D:\Dian\School\Programirane\PraktikaGame\PraktikaGame\obj\Debug\PraktikaGame.exe
+D:\Dian\School\Programirane\PraktikaGame\PraktikaGame\obj\Debug\PraktikaGame.pdb
